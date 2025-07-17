@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "waste-management-app",
+    "slug": "waste-management-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
